@@ -11,7 +11,7 @@ To understand what is going behind the scenes, we have to understand the definit
 ### Daedalus Ranking Flowchart {docsify-ignore}
 
 The following flowchart helps to understand how the final ranking in Daedalus is formed.
-First, the pools are ordered by their desirability, and the top 150 pools have their non-myopic stake set to saturation (in almost all cases) or their live stake (if thier live stake is greater than saturation).
+First, the pools are ordered by their desirability, and the top 150 pools have their non-myopic stake set to saturation (in almost all cases) or their live stake (if their live stake is greater than saturation).
 
 ![Daedalus Ranking](https://github.com/DamjanOstrelic/shelley-scripts/blob/master/Daedalus%20ranking.png?raw=true)
 
