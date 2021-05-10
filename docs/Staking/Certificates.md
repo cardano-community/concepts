@@ -9,9 +9,9 @@ There are four main type of certificates in Shelley:
 
 ### Operational key certificates
 
-The `operational key certificate`'s is created from a `staking key`
-used by stake pool operators for protecting their pool(s) and keys, signing bocke, participating in the lottery and not for delegating staking rights.
-This certificate needs for operating a node as a stake pool. 
+The `operational key certificate` is created from a `staking key`
+used by stake pool operators for protecting their pool(s) and keys, signing blocks, participating in the lottery and not for delegating staking rights.
+This certificate is needed for operating a node as a stake pool.
 
 See [detailed example here](Staking/Operators.md#run-a-node-with-operational-key-certificate)
 
